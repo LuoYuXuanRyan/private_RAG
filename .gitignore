@@ -1,0 +1,25 @@
+# 忽略 chroma_db 文件夹及其内容
+/chroma_db/
+/chroma_db/*
+
+# Python相关忽略
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境相关
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统相关
+.DS_Store
+Thumbs.db 
