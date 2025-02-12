@@ -2,6 +2,9 @@
 /chroma_db/
 /chroma_db/*
 
+# 忽略聊天记录数据库
+chat_history.db
+
 # Python相关忽略
 __pycache__/
 *.py[cod]
